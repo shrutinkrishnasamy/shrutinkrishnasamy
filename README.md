@@ -1,164 +1,130 @@
-<!-- Banner -->
-<h1 align="center">Hi, I'm Shrutin Krishnasamy 👋</h1>
+<h1 align="center">Hi 👋, I'm Shrutin Krishnasamy</h1>
+
+<h3 align="center">
+Pre-Final Year Information Technology Student | Full-Stack Developer | AI/ML Enthusiast
+</h3>
 
 <p align="center">
-  <b>Software Engineer • Full-Stack Developer • AI Enthusiast</b>
-</p>
-
-<p align="center">
-Building scalable applications, intelligent systems, and solving real-world problems through code.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrutinkrishnasamy&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/shrutinkrishnasamy?label=Followers&style=social" />
+Passionate about building scalable web applications, REST APIs, and AI-powered solutions that solve real-world problems.
 </p>
 
 ---
 
-# About Me
+## 👨‍💻 About Me
 
-```java
-public class Shrutin {
-
-    String role = "Software Engineer";
-
-    String[] languages = {
-        "Java",
-        "Python",
-        "JavaScript",
-        "SQL"
-    };
-
-    String[] backend = {
-        "Spring Boot",
-        "REST API",
-        "Hibernate"
-    };
-
-    String[] frontend = {
-        "React",
-        "HTML",
-        "CSS",
-        "Bootstrap"
-    };
-
-    String[] databases = {
-        "MySQL",
-        "Oracle",
-        "Firebase"
-    };
-
-    String currentFocus =
-        "Building scalable backend systems and AI-powered applications.";
-}
-```
+- 🎓 Pre-Final Year B.Tech Information Technology Student
+- 💻 Passionate Full-Stack Developer
+- ☕ Java & Spring Boot Developer
+- 🌐 React.js Frontend Developer
+- 🤖 Exploring AI, Machine Learning & Computer Vision
+- 📚 Currently learning Cloud Technologies and System Design
+- 🚀 Always building projects that solve real-world problems
 
 ---
 
-# Engineering Philosophy
-
-> **"Good software is not just code that works. It's code that is scalable, maintainable, and solves real problems."**
-
----
-
-# Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
 
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![javascript](https://skillicons.dev/icons?i=javascript)
-![mysql](https://skillicons.dev/icons?i=mysql)
-
-### Backend
-
-![Spring](https://skillicons.dev/icons?i=spring)
-![hibernate](https://skillicons.dev/icons?i=hibernate)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ### Frontend
 
-![React](https://skillicons.dev/icons?i=react)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
 ### Tools
 
-![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-# Featured Projects
+# 📌 Featured Projects
 
 ### 🚨 ALERT-GOVERNMENT
-
-AI-powered emergency communication platform for government authorities with location-based alerts, multilingual support, and administrative workflow.
-
----
+AI-powered Government Emergency Alert Management System with role-based workflow, multilingual alerts, and location-based emergency broadcasting.
 
 ### 🚖 Riderupee
-
-A modern taxi booking platform featuring live location tracking, Firebase Authentication, Google Maps integration, and real-time chat.
-
----
+A taxi booking platform with live driver tracking, Firebase authentication, Google Maps integration, and real-time chat.
 
 ### 👨‍💼 Employees Spring Boot API
-
-RESTful Employee Management System developed with Spring Boot, MySQL, JSON, and Postman.
-
----
+RESTful CRUD API built using Spring Boot, MySQL, JSON, and Postman.
 
 ### 🏨 Hotel Management System
-
-Java, JSP, Servlets, JDBC, and MySQL-based hotel reservation platform.
+JSP, Servlets, JDBC, and MySQL-based hotel booking and management application.
 
 ---
 
-# GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shrutinkrishnasamy&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shrutinkrishnasamy&show_icons=true&theme=tokyonight"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutinkrishnasamy&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutinkrishnasamy&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutinkrishnasamy&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutinkrishnasamy&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# Currently Exploring
+## 🌱 Currently Learning
 
 - Spring Security
 - Microservices
 - Docker
-- AWS
+- AWS Cloud
 - System Design
-- Artificial Intelligence
 - Machine Learning
 
 ---
 
-# Connect
+## 💡 Interests
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shrutinkrishnasamy
-- 🌐 GitHub: https://github.com/shrutinkrishnasamy
+- Full-Stack Development
+- Artificial Intelligence
+- Software Engineering
+- Open Source
+- Cloud Computing
+- Backend Development
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/shrutinkrishnasamy
+- LinkedIn: www.linkedin.com/in/shrutinkrishnasamy
 
 ---
 
 <p align="center">
 
-### Thanks for visiting!
+### 🚀 "Code • Learn • Build • Repeat"
 
-**"Code with purpose. Learn continuously. Build for impact."**
+⭐ Thanks for visiting my profile!
 
 </p>
