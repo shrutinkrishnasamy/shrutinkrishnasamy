@@ -28,6 +28,8 @@ Passionate about building scalable web applications, REST APIs, and AI-powered s
     <img src="https://img.shields.io/badge/View%20My%20Resume-2E75B6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Resume"/>
   </a>
 </p>
+
+---
 ## 🚀 Tech Stack
 
 ### Languages
