@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shrutin Krishnasamy</h1>
+<h1 align="center">Hi, I'm Shrutin Krishnasamy</h1>
 
 <h3 align="center">
 Pre-Final Year Information Technology Student | Full-Stack Developer | AI/ML Enthusiast
